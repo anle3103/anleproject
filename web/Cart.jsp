@@ -9,6 +9,7 @@
 
     </head>
 
+    
     <body>
         <jsp:include page="Menu.jsp"></jsp:include>
             <div class="shopping-cart">
